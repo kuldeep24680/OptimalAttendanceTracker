@@ -23,6 +23,7 @@ for 10 days: 372/773
 
 #Steps to clone the git repo in the local machine
 git clone https://github.com/kuldeep24680/OptimalAttendanceTracker.git
+
 cd OptimalAttendanceTracker
 
 #To run the program
